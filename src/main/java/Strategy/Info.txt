@@ -1,0 +1,5 @@
+The Strategy pattern is useful when we have multiple algorithms for performing a task
+and we want to choose any of the algorithms at runtime. This pattern is especially good
+when the number of algorithms increases because it isolates algorithms from the client code.
+
+However, this design pattern complicates the system by adding multiple additional classes.
